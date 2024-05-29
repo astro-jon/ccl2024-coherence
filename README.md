@@ -10,3 +10,5 @@ Quadratic weighted Kappa（QWK）的评测代码参见：[QWK.py](QWK.py)
 ### 2、baseline
 - track3:
   -  运行 [main.py](track3_baseline%2Fsrc%2Fmain.py)
+
+### We will update the code upon the author has attended the summer camp!
